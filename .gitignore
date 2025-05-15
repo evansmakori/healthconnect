@@ -1,0 +1,18 @@
+# Rust build output
+/target
+
+# Node.js dependencies (if using JS frontend)
+/node_modules
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+# OS or editor-specific files
+.DS_Store
+Thumbs.db
